@@ -1,3 +1,4 @@
 This is a Git test file, is to test git's various functions, has been the basic operation.
 This is dev branch.
-This is master barnch.
+This is master and feature barnchs.
+
