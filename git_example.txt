@@ -1,3 +1,0 @@
-this is git test file;
-This file is a new file;
-this is changed sentence.
